@@ -45,7 +45,7 @@ I'm interested in developing shopping mall web service🛍️<br><br>
 <img src="https://img.shields.io/badge/Android Studio-3ddc84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
 </p>
 
-<br>
+<br><br>
 Below is my thesis on the recommendation system.<br>
 📖Sequential Movie Genre Prediction Using Average Transition Probability with Clustering📖<br>
 👉🏻https://doi.org/10.3390/app112411841 <br>
