@@ -45,7 +45,7 @@ Techs that I've used at least once
 <img src="https://img.shields.io/badge/Visual Studio Code-007acc?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spyder IDE-ff0000?style=flat-square&logo=Spyder IDE&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter-f37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Google Colab-f9ab00?style=flat-square&logo=Google Colab&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Google Colab-f9ab00?style=flat-square&logo=Google Colab&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/PowerShell-5391fe?style=flat-square&logo=PowerShell&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android Studio-3ddc84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/iBeacon-3d7ebb?style=flat-square&logo=iBeacon&logoColor=white"/></a>
