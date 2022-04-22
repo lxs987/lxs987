@@ -29,8 +29,6 @@ Techs that I've used at least once
 <img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C%2B%2B-00599c?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white"/></a>
-</p>
-<p align="center">
 <img src="https://img.shields.io/badge/Oracle-f80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache Tomcat-f8dc75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
@@ -46,7 +44,7 @@ Techs that I've used at least once
 <img src="https://img.shields.io/badge/Visual Studio Code-007acc?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spyder IDE-ff0000?style=flat-square&logo=Spyder IDE&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter-f37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Google Colab-f9ab00?style=flat-square&logo=Google Colab&logoColor=white"/></a><br>
+<img src="https://img.shields.io/badge/Google Colab-f9ab00?style=flat-square&logo=Google Colab&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android Studio-3ddc84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
 </p>
 
