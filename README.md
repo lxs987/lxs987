@@ -29,13 +29,10 @@ Techs that I've used at least once
 <img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C%2B%2B-00599c?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/scikit-learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Oracle-f80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Anaconda-44a833?style=flat-square&logo=Anaconda&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Gradle-02303a?style=flat-square&logo=gradle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache Tomcat-f8dc75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
 </p>
 <p align="center">
@@ -46,14 +43,11 @@ Techs that I've used at least once
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Eclipse IDE-2c2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Visual Studio-5c2d91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007acc?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spyder IDE-ff0000?style=flat-square&logo=Spyder IDE&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter-f37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Google Colab-f9ab00?style=flat-square&logo=Google Colab&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/PowerShell-5391fe?style=flat-square&logo=PowerShell&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android Studio-3ddc84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/iBeacon-3d7ebb?style=flat-square&logo=iBeacon&logoColor=white"/></a>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=50:FFBDD5,50:FFD5D5&height=100&section=footer)
