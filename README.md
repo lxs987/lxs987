@@ -6,7 +6,11 @@
 
 👋🏻 Hi there! I'm Jinkyung.<br>
 I am a student dreaming for becoming a web full stack developer.⭐<br>
-I usually develop using Spring Boot.
+I usually develop using Spring Boot.🍀<br>
+I'm interested in developing shopping mall web service🛍️ and recommendation system.<br><br>
+Below is my thesis on the recommendation system.<br>
+📖Sequential Movie Genre Prediction Using Average Transition Probability with Clustering📖<br>
+👉🏻https://doi.org/10.3390/app112411841 <br>
 
 <br><br>
 <p align="center">
