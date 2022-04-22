@@ -49,5 +49,6 @@ I'm interested in developing shopping mall web service🛍️<br><br>
 Below is my thesis on the recommendation system.<br>
 📖Sequential Movie Genre Prediction Using Average Transition Probability with Clustering📖<br>
 👉🏻https://doi.org/10.3390/app112411841 <br>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=50:FFBDD5,50:FFD5D5&height=100&section=footer)
 
