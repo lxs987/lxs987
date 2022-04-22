@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=50:FFBDD5,50:FFD5D5&height=230&text=Hi!%20I'm%20Jinkyung&animation=twinkling&fontColor=ffffff&section=header)
 <img src="https://img.shields.io/badge/lxs987@naver.com-03c75a?style=flat-square&logo=Naver&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/lxsz987@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white"/>
-<br><br><br>
+<br><br>
 
 👋🏻 Hi there! I'm Jinkyung.<br>
 I am a student dreaming for becoming a web full stack developer.⭐<br>
