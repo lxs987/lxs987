@@ -29,12 +29,6 @@ I'm interested in developing shopping mall web service🛍️<br><br>
 <img src="https://img.shields.io/badge/Apache Tomcat-f8dc75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Amazon AWS-232f3e?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Amazon DynamoDB-4053d6?style=flat-square&logo=Amazon DynamoDB&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Amazon Lambda-ff9900?style=flat-square&logo=AWS Lambda&logoColor=white"/>
-</p>
-<p align="center">
 <img src="https://img.shields.io/badge/Eclipse IDE-2c2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spyder IDE-ff0000?style=flat-square&logo=Spyder IDE&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter-f37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
