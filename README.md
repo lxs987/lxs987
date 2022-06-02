@@ -6,7 +6,7 @@
 
 👋🏻 Hi there! I'm Jinkyung.<br>
 I am a student dreaming for becoming a web full stack developer.⭐<br>
-I usually develop using Spring Boot.🍀<br>
+I usually develop using Spring Boot🍀<br>
 I'm interested in developing shopping mall web service🛍️<br><br>
 
 
